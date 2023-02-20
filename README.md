@@ -66,6 +66,8 @@ Journey of code creation using Copilot is very much similar to the one we have s
 If you see codes inside the 'AndroidAppCode' folder then u will find more than 95% of code was generated via Copilot./
 As this application was build is in kotlin and kotlin being the fairly new language suggestions were not as good or of high volume as seen in older languages like java,javascript,C++ etc.
 
+![Screenshot_1676908030](https://user-images.githubusercontent.com/96165741/220150584-f3b5a341-ecba-4b16-8d5b-3bb3d8f010c7.png)
+
 # Copilot's pros and cons 
 ## Advantages:
 - **Boilerplate code**:
